@@ -1,5 +1,3 @@
-import 'dart:io';
-
 import 'package:flutter/material.dart';
 
 import 'generated/l10n.dart';
@@ -45,7 +43,6 @@ class _MyHomePageState extends State<MyHomePage> {
   int _counter = 0;
 
   void _incrementCounter() {
-    print(Platform.localeName);
     setState(() {
       _counter++;
     });
