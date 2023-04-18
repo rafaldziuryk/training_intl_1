@@ -1,4 +1,5 @@
 {
   "@@locale":"pl",
-  "appName" : "Aplikacja"
+  "appName" : "Aplikacja",
+  "incrementLabel" : "Tyle razy nacisnąłeś przycisk:"
 }
